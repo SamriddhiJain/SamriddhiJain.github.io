@@ -1,4 +1,5 @@
 baseURL = "https://samriddhijain.github.io/"
+relativeURLs = true
 title   = "Hi, I am Samriddhi Jain!"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -34,19 +35,8 @@ disable404     = false
 disableHugoGeneratorInject = false
 disableKinds = ["RSS"]
 
-# [permalinks]
-  # posts = "/posts/:year/:month/:title/"
-
 [author]
   name = "Samriddhi Jain"
-
-# [blackfriday]
-#   hrefTargetBlank = true
-
-[taxonomies]
-  tag      = "tags"
-  category = "categories"
-  series   = "series"
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -160,10 +150,6 @@ disableKinds = ["RSS"]
   [[params.social]]
     name = "twitter"
     url  = "https://twitter.com/j_samriddhi"
-
-  # [[params.social]]
-  #   name = "CV"
-  #   url  = "https://www.stackoverflow.com/"
 
 [menu]
   [[menu.main]]
