@@ -12,3 +12,5 @@ I am a keen Machine Learning and Computer Vision enthusiast. I am interested in 
 In the past, I spent some wonderful time at Astrivis and Microsoft, learning new tech stuff and improving my dev skills. I did my bachelors from IIT Mandi and moved to Zurich after staying in Hyderabad for a couple of years.
 
 Personally, I love to travel and explore new places. I often spend my free time sketching or in DIY art. I am trying to adopt a workout schedule and would love to bike around Zurich more often.
+
+Fun icebreakers: Planning a trip in Switzerland, Black Mirror, 3D printing
