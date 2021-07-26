@@ -14,3 +14,4 @@ In the past, I spent some wonderful time at Astrivis and Microsoft, learning new
 Personally, I love to travel and explore new places. I often spend my free time sketching or in DIY art. I am trying to adopt a workout schedule and would love to bike around Zurich more often.
 
 Fun icebreakers: Planning a trip in Switzerland, Black Mirror, 3D printing
+
